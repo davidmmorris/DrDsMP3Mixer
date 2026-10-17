@@ -1,4 +1,4 @@
-An old MP3 sampler in the land of 8.3 that loaded a M3U playlist, looked for the peak sound, and mixed it with the other tracks and exported to a WAV file. Supercut-O-Matic Plus was fabulous, written in C++ with a GUI wrapper. I recently managed to get it working on the command line as the GUI just keep failing, and brought it back to life. 
+This is inspired by an old MP3 sampler in the land of 8.3 that loaded a M3U playlist, looked for the peak sound, and mixed it with the other tracks and exported to a WAV file. Supercut-O-Matic Plus was fabulous, written in C++ with a GUI wrapper. I recently managed to get it working on the command line as the GUI just keep failing, and brought it back to life. 
 
 I do not know who originally coded it and have tried for years to find out but credit to the "unknown". Thank you.
 
